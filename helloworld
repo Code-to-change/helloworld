@@ -1,5 +1,1 @@
-# Programming Language :  Python
-# Concept  :  Hello world program_using python
-# Filename :  Helloworld.py
-
 print("helloworld")
